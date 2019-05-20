@@ -1,0 +1,4 @@
+[submodule "AzureAuth"]
+	path = AzureAuth
+	url = https://github.com/Azure/AzureAuth
+	branch = master
