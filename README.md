@@ -1,14 +1,9 @@
+# AzureR
 
-# Contributing
+| Package | CRAN | PRs | Issues | Build status
+| ------- | -:| -:| -:| -:|
+| [AzureAuth](https://github.com/Azure/AzureAuth) | [![CRAN](https://www.r-pkg.org/badges/version/AzureAuth)](https://cran.r-project.org/package=AzureAuth) | [![PRs](https://img.shields.io/github/issues-pr-raw/Azure/AzureAuth.svg?label=%20%20)](https://github.com/Azure/AzureAuth/pulls) | [![issues](https://img.shields.io/github/issues-raw/Azure/AzureAuth.svg?label=issues)](https://github.com/Azure/AzureAuth/issues) | [![Travis Build Status](https://travis-ci.org/Azure/AzureAuth.png?branch=master)](https://travis-ci.org/Azure/AzureAuth) |
+| [AzureRMR](https://github.com/Azure/AzureRMR) | [![CRAN](https://www.r-pkg.org/badges/version/AzureRMR)](https://cran.r-project.org/package=AzureRMR) | [![PRs](https://img.shields.io/github/issues-pr-raw/Azure/AzureRMR.svg?label=%20%20)](https://github.com/Azure/AzureRMR/pulls) | [![issues](https://img.shields.io/github/issues-raw/Azure/AzureRMR.svg?label=issues)](https://github.com/Azure/AzureRMR/issues) | [![Travis Build Status](https://travis-ci.org/Azure/AzureRMR.png?branch=master)](https://travis-ci.org/Azure/AzureRMR) |
+| [AzureGraph](https://github.com/Azure/AzureGraph) | [![CRAN](https://www.r-pkg.org/badges/version/AzureGraph)](https://cran.r-project.org/package=AzureGraph) | [![PRs](https://img.shields.io/github/issues-pr-raw/Azure/AzureGraph.svg?label=%20%20)](https://github.com/Azure/AzureGraph/pulls) | [![issues](https://img.shields.io/github/issues-raw/Azure/AzureGraph.svg?label=issues)](https://github.com/Azure/AzureGraph/issues) | [![Travis Build Status](https://travis-ci.org/Azure/AzureGraph.png?branch=master)](https://travis-ci.org/Azure/AzureGraph) |
 
-This project welcomes contributions and suggestions.  Most contributions require you to agree to a
-Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
-the rights to use your contribution. For details, visit https://cla.microsoft.com.
 
-When you submit a pull request, a CLA-bot will automatically determine whether you need to provide
-a CLA and decorate the PR appropriately (e.g., label, comment). Simply follow the instructions
-provided by the bot. You will only need to do this once across all repos using our CLA.
-
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
-For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
-contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
