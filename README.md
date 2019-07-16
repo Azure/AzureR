@@ -1,4 +1,4 @@
-<a href="https://github.com/Azure/AzureR"><img src="images/logo.png" style="width:600px; display:block; margin-left:auto; margin-right:auto"></a>
+<p align="center"><a href="https://github.com/Azure/AzureR"><img src="images/logo.png" width=600></a></p>
 
 AzureR is a family of packages for working with [Azure](https://microsoft.com/azure) from R. They are designed to be lightweight yet powerful by working directly with the Azure REST API, without any dependencies on other languages.
 
